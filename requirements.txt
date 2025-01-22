@@ -1,0 +1,6 @@
+streamlit
+pandas
+easyocr
+PIL
+sklearn
+fuzzywuzzy
